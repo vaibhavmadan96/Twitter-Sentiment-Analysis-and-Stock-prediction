@@ -1,0 +1,548 @@
+(dp0
+I0
+(lp1
+V2017-04-06 | Monitor your watchlist of assets for tweets - US Tech Giants https://t.co/J74uV6qAnD $AAPL $GOOG $MSFT $FB
+p2
+aV2017-04-06 | RT @WallStJesus: \U0001f525 TODAY'S ACTIVE FLOW &gt;&gt; $AMD $AAPL $AMZN $TSLA $FB $NVDA $JPM $CMCSA $TWTR $KMX $CHK $MU $CHK $MSFT $MBI $RAD $X $C $BABA\u2026
+p3
+aV2017-04-06 | Why access a ticker when you can access a group of tickers - US Tech Giants https://t.co/J74uV6qAnD $AAPL $GOOGL $MSFT $FB
+p4
+aV2017-04-06 | RT @TheStreet: "Project Scorpio" is Microsoft's new high-performance Xbox One console  https://t.co/UbVztSGYwF $MSFT
+p5
+aV2017-04-06 | RT @bibitabibi: Here's a look at #Microsoft's new #social #gathering #app, which is exclusive to #iPhones #socialmedia #networking $MSFT #U\u2026
+p6
+aV2017-04-06 | RT @TheStreet: "Project Scorpio" is Microsoft's new high-performance Xbox One console  https://t.co/UbVztSGYwF $MSFT
+p7
+aV2017-04-06 | "Project Scorpio" is Microsoft's new high-performance Xbox One console  https://t.co/UbVztSGYwF $MSFT
+p8
+aV2017-04-06 | @jimcramer @MadMoneyOnCNBC Not bad for $60B mkt cap / Barely profitable $CRM that appears need sell co to get ballo\u2026 https://t.co/Z8EdDd7igG
+p9
+aV2017-04-06 | $MSFT "INDERMINATE whether or not there is any more" on ADFN InvestorsHub message boards: https://t.co/wt7NTPwsX0
+p10
+aV2017-04-06 | RT @WallStJesus: \U0001f525 TODAY'S ACTIVE FLOW &gt;&gt; $AMD $AAPL $AMZN $TSLA $FB $NVDA $JPM $CMCSA $TWTR $KMX $CHK $MU $CHK $MSFT $MBI $RAD $X $C $BABA\u2026
+p11
+aV2017-04-06 | RT @_ChrisVersace: #gaming and Collegiate Sports Collide to Form Varsity #eSports https://t.co/Gv0tpJLqSi $ATVI $EA $TTWO $MSFT $SNE  @UofU\u2026
+p12
+aV2017-04-06 | RT @TematicaGroup: #gaming and Collegiate Sports Collide to Form Varsity #eSports https://t.co/ebXDzQLS8T $ATVI $EA $TTWO $MSFT $SNE  @UofU\u2026
+p13
+aV2017-04-06 | RT @themotleyfool: For Microsoft, the next big thing will be Things. As in Internet of Things. We're talking a huge IoT push. $MSFT https:/\u2026
+p14
+aV2017-04-06 | Adobe Is Going All In on AI @themotleyfool #stocks $MSFT, $AMZN, $NVDA, $ADBE https://t.co/aJwvkk1Wvh
+p15
+aV2017-04-06 | RT @WallStJesus: \U0001f525 TODAY'S ACTIVE FLOW &gt;&gt; $AMD $AAPL $AMZN $TSLA $FB $NVDA $JPM $CMCSA $TWTR $KMX $CHK $MU $CHK $MSFT $MBI $RAD $X $C $BABA\u2026
+p16
+aV2017-04-06 | RT @WallStJesus: \U0001f525 TODAY'S ACTIVE FLOW &gt;&gt; $AMD $AAPL $AMZN $TSLA $FB $NVDA $JPM $CMCSA $TWTR $KMX $CHK $MU $CHK $MSFT $MBI $RAD $X $C $BABA\u2026
+p17
+aV2017-04-06 | RT @WallStJesus: \U0001f525 TODAY'S ACTIVE FLOW &gt;&gt; $AMD $AAPL $AMZN $TSLA $FB $NVDA $JPM $CMCSA $TWTR $KMX $CHK $MU $CHK $MSFT $MBI $RAD $X $C $BABA\u2026
+p18
+aV2017-04-06 | RT @WallStJesus: \U0001f525 TODAY'S ACTIVE FLOW &gt;&gt; $AMD $AAPL $AMZN $TSLA $FB $NVDA $JPM $CMCSA $TWTR $KMX $CHK $MU $CHK $MSFT $MBI $RAD $X $C $BABA\u2026
+p19
+aV2017-04-06 | \U0001f525 TODAY'S ACTIVE FLOW &gt;&gt; $AMD $AAPL $AMZN $TSLA $FB $NVDA $JPM $CMCSA $TWTR $KMX $CHK $MU $CHK $MSFT $MBI $RAD $X\u2026 https://t.co/iO09MTdh8h
+p20
+aV2017-04-06 | https://t.co/dhXXigZDiX [Free Trial] Give JasonBond 90 days and he will make you a better trader. $fb $msft $twtr
+p21
+aV2017-04-06 | #gaming and Collegiate Sports Collide to Form Varsity #eSports https://t.co/ebXDzQLS8T $ATVI $EA $TTWO $MSFT $SNE  @UofUNews
+p22
+aV2017-04-06 | #gaming and Collegiate Sports Collide to Form Varsity #eSports https://t.co/Gv0tpJLqSi $ATVI $EA $TTWO $MSFT $SNE  @UofUNews
+p23
+aV2017-04-06 | RT @firstadopter: "Inside the next Xbox: Project Scorpio tech revealed" $MSFT https://t.co/RDDHuiAKk1 https://t.co/KX0Qyqo1lM
+p24
+aV2017-04-06 | RT @DomainMondo: Tech Review UPDATE: #Android now world\u2019s most popular OS for internet use, Goodbye @Windows https://t.co/IqkGmvpequ $MSFT\u2026
+p25
+aV2017-04-06 | RT @JorelLaraKalel: It's official: People like Microsoft's tablets better than the iPad $MSFT $AAPL https://t.co/pcSe0uYZ7S #ipad #surface
+p26
+aV2017-04-06 | It's official: People like Microsoft's tablets better than the iPad $MSFT $AAPL https://t.co/pcSe0uYZ7S #ipad #surface
+p27
+aV2017-04-06 | Stay ahead with Nasdaq 100 news, views &amp; analysis $MSFT $AAPL $GOOG https://t.co/W1OB9ZtUgi https://t.co/ZfhyWhXTvp
+p28
+aV2017-04-06 | Microsoft current daily signal: Up! Please RT $MSFT #MSFT  #DayTrade #AI #stocks
+p29
+aV2017-04-06 | RT @MorningstarCDN: This manager looks beyond the usual sectors for dividend #stocks: https://t.co/wOMfrbuMK2 #investing #mutualfunds $JPM\u2026
+p30
+aV2017-04-06 | This manager looks beyond the usual sectors for dividend #stocks: https://t.co/wOMfrbuMK2 #investing #mutualfunds $JPM $WFC $INTC $MSFT $CVX
+p31
+aV2017-04-06 | RT @LeonLazaroff: Like most industries, cloud computing is coming down to a few companies: $AMZN, $MSFT, $GOOGL: https://t.co/ZbgmK21yHt @T\u2026
+p32
+aV2017-04-06 | The Biggest Stock Bubble In U.S. History https://t.co/MQULGEhK0h $SPY $SPX $DJIA $MSFT $AMZN $GOOG
+p33
+aV2017-04-06 | $MSFT $AAPL:  It\u2019s official: People like Microsoft\u2019s tablets better than the iPad:  https://t.co/H44OTvSN3Q
+p34
+aV2017-04-06 | $MSFT https://t.co/fG8c8JYPK9
+p35
+aV2017-04-06 | Are you Bullish or Bearish on #Microsoft? Start #Trading $MSFT with #Bitcoin. 15:1 Leverage. #Cool #Gif #Stocks\u2026 https://t.co/Zv23KirPuG
+p36
+aV2017-04-06 | #Microsoft just topped Apple in a surprising satisfaction study. Read more: https://t.co/fd2IfnyRl2 $MSFT
+p37
+aV2017-04-06 | RT @talkingmoose_: Corps w/#h1b staff are #unAmerican. $INTC $DIS $GOOG $MSFT $IBM $QCOM $NVDA $JPM $AAPL $AMZN $MCD $ORCL $WFC $GS $BAC $H\u2026
+p38
+aV2017-04-06 | RT @talkingmoose_: Companies using #h1b  aren\u2019t clever. They\u2019re #unAmerican. $INTC $DIS $GOOG $MSFT $IBM $QCOM $NVDA $JPM $AAPL $CAT $ACN $\u2026
+p39
+aV2017-04-06 | RT @sonycomeback: $AAPL $FB $GOOGL $NKE $MSFT $SNAP $AMZN trade 4x-23x book value with that multiple $SNE #SONY should trade btw $80 to $450
+p40
+aV2017-04-06 | $MSFT vet scores $100M for Bay Area #startup competing with @amazon on its own cloud https://t.co/ZmLP6TsI5s https://t.co/TmEKoTO0cq
+p41
+aV2017-04-06 | RT @fxbanker: Are Timeshare Stocks A Ticking Time Bomb? https://t.co/NVKAUsKjRc $HGV $HLF $ILG $MSFT $VAC $WYN $APO
+p42
+aV2017-04-06 | RT $TSLA fans Barclays has a \u2018reality pill\u2019 for you $QQQ $AAPL $GOOG $MSFT $AMZN $NFLX $FB https://t.co/otVKf98PKM
+p43
+aV2017-04-06 | RT @fxbanker: Are Timeshare Stocks A Ticking Time Bomb? https://t.co/NVKAUsKjRc $HGV $HLF $ILG $MSFT $VAC $WYN $APO
+p44
+aV2017-04-06 | RT @fxbanker: Are Timeshare Stocks A Ticking Time Bomb? https://t.co/NVKAUsKjRc $HGV $HLF $ILG $MSFT $VAC $WYN $APO
+p45
+aV2017-04-06 | We are warming up to $msft after this news.  https://t.co/LlHdMduIxf
+p46
+aV2017-04-06 | RT @andreascseh: Microsoft #Windows10 is Oficially Obsolete $MSFT #SamsungDex https://t.co/dYhz01h5Nf @peragovicstamas @zoowalk @goldthau @\u2026
+p47
+aV2017-04-06 | $LRGR closing at HOD .59. Next Alert tomorrow @ 9:30Am Est $TSLA $BRKK $ECOB $DOLV $EFLN $MMHC $AVEW $RRRT $BTCS $MSFT $AVEW $CEGX
+p48
+aV2017-04-06 | $LRGR closing at HOD .59. Next Alert tomorrow @ 9:30Am Est $TSLA $BRKK $ECOB $DOLV $EFLN $MMHC $AVEW $RRRT $BTCS $MSFT $AVEW $CEGX
+p49
+aV2017-04-06 | $LRGR closing at HOD .59. Next Alert tomorrow @ 9:30Am Est $TSLA $BRKK $ECOB $DOLV $EFLN $MMHC $AVEW $RRRT $BTCS $MSFT $AVEW $CEGX
+p50
+aV2017-04-06 | $LRGR closing at HOD .59. Next Alert tomorrow @ 9:30Am Est $TSLA $BRKK $ECOB $DOLV $EFLN $MMHC $AVEW $RRRT $BTCS $MSFT $AVEW $CEGX
+p51
+aV2017-04-06 | $AAPL $FB $GOOGL $NKE $MSFT $SNAP $AMZN trade 4x-23x book value with that multiple $SNE #SONY should trade btw $80 to $450
+p52
+aV2017-04-06 | https://t.co/GpCuFDTPCa: Hold Or Fold? https://t.co/XpHJmHXc4G $AAPL $MSFT $XOM $AMZN
+p53
+asI1
+(lp54
+V2017-04-05 | RT @craigbuj: Big Data + AI = The New Stack $AMZN $GOOGL $MSFT $IBM https://t.co/C0ma528ABQ https://t.co/oRgak82YM5
+p55
+aV2017-04-05 | Stock Market Commentary For Thursday, April 06 - $TGT, $TSLA, $XOM, $JPM, $BA, $XRT, $JWN, $NFLX, $MSFT, $GS  https://t.co/kLBJPQH1Fz
+p56
+aV2017-04-05 | RT @theflynews: Data center infrastructure stocks continue multi-day slide $FFIV $FNSR $CIEN $AMZN $MSFT $GOOG $GOOGL $FB $AAPL\u2026 https://t.\u2026
+p57
+aV2017-04-05 | @dark_marq88 $MSFT! Ugh... #Zune
+p58
+aV2017-04-05 | RT @appleinsider: Microsoft's new iOS 10 iMessage App "Who's In" lets groups collaborate on plans $AAPL $MSFT https://t.co/UIkVYxFYbt https\u2026
+p59
+aV2017-04-05 | RT @theflynews: Data center infrastructure stocks continue multi-day slide $FFIV $FNSR $CIEN $AMZN $MSFT $GOOG $GOOGL $FB $AAPL\u2026 https://t.\u2026
+p60
+aV2017-04-05 | @Sprint Reportedly Killing Long-Running 50% Off Promotion! Great...Can You Say Double The Profits! https://t.co/tVoVH7LZyy $S $QQQ $MSFT $HD
+p61
+aV2017-04-05 | RT @SFBusinessTimes: $MSFT vet scores $100M for Bay Area #startup competing with @amazon on its own cloud https://t.co/ZmLP6TsI5s https://t\u2026
+p62
+aV2017-04-05 | @Sprint Reportedly Killing Long-Running 50% Off Promotion!  Quick...Get In While You Still Can!  https://t.co/tVoVH7LZyy $S $MSFT $QQQ $DISH
+p63
+aV2017-04-05 | RT @appleinsider: Microsoft's new iOS 10 iMessage App "Who's In" lets groups collaborate on plans $AAPL $MSFT https://t.co/UIkVYxFYbt https\u2026
+p64
+aV2017-04-05 | Microsoft continues to diverge on the weekly chart. Lower prices ahead. Tgt: 55 $MSFT https://t.co/hHBPqjL4N9
+p65
+aV2017-04-05 | RT @jjjinvesting: The Cheapest Way To Diversify Among Large-Cap Companies https://t.co/LNeVcmYtoA $AAPL $AMZN $FB $GE $GIS $JNJ $JPM $MSFT\u2026
+p66
+aV2017-04-05 | Adobe going #AllIn on #AI $ADBE $MSFT $AMZN $NVDA #bigdata #marketing #cloudcomputing #virtualassistant #gpu #CRM https://t.co/16ClBylcWT
+p67
+aV2017-04-05 | RT @appleinsider: Microsoft's new iOS 10 iMessage App "Who's In" lets groups collaborate on plans $AAPL $MSFT https://t.co/UIkVYxFYbt https\u2026
+p68
+aV2017-04-05 | RT @appleinsider: Microsoft's new iOS 10 iMessage App "Who's In" lets groups collaborate on plans $AAPL $MSFT https://t.co/UIkVYxFYbt https\u2026
+p69
+aV2017-04-05 | RT @appleinsider: Microsoft's new iOS 10 iMessage App "Who's In" lets groups collaborate on plans $AAPL $MSFT https://t.co/UIkVYxFYbt https\u2026
+p70
+aV2017-04-05 | @Adobe going #AllIn on #AI $ADBE $MSFT $AMZN $NVDA #bigdata #marketing #cloudcomputing #virtualassistant #gpu #CRM  https://t.co/16ClBylcWT
+p71
+aV2017-04-05 | Facebook Will Offer a Free Version of Workplace https://t.co/ndjVTkn8XI $MSFT $FB https://t.co/xXxh3r7I83
+p72
+aV2017-04-05 | The Cheapest Way To Diversify Among Large-Cap Companies https://t.co/LNeVcmYtoA $AAPL $AMZN $FB $GE $GIS $JNJ $JPM $MSFT $PM $T $XOM $SCHX
+p73
+aV2017-04-05 | RT @appleinsider: Microsoft's new iOS 10 iMessage App "Who's In" lets groups collaborate on plans $AAPL $MSFT https://t.co/UIkVYxFYbt https\u2026
+p74
+aV2017-04-05 | RT @appleinsider: Microsoft's new iOS 10 iMessage App "Who's In" lets groups collaborate on plans $AAPL $MSFT https://t.co/UIkVYxFYbt https\u2026
+p75
+aV2017-04-05 | RT @TradewiseApp: Important earnings dates for you $GE $BAC $AMZN $BABA $C $GM $AAPL $FB $GS $GOOG $MSFT $JPM $NVDA $TSLA https://t.co/zDdw\u2026
+p76
+aV2017-04-05 | Microsoft's new iOS 10 iMessage App "Who's In" lets groups collaborate on plans $AAPL $MSFT \u2026 https://t.co/G8rtDadklr
+p77
+aV2017-04-05 | RT @appleinsider: Microsoft's new iOS 10 iMessage App "Who's In" lets groups collaborate on plans $AAPL $MSFT https://t.co/UIkVYxFYbt https\u2026
+p78
+aV2017-04-05 | Microsoft's new iOS 10 iMessage App "Who's In" lets groups collaborate on plans $AAPL $MSFT \u2026 https://t.co/mmUwYP8B1f
+p79
+aV2017-04-05 | Facebook testing free version of its Slack rival, Workplace $FB $MSFT https://t.co/eUpGO3y1ZN
+p80
+aV2017-04-05 | appleinsider: Microsoft's new iOS 10 iMessage App "Who's In" lets groups collaborate on plans $AAPL $MSFT \u2026 https://t.co/o21zo8oIDP
+p81
+aV2017-04-05 | RT @appleinsider: Microsoft's new iOS 10 iMessage App "Who's In" lets groups collaborate on plans $AAPL $MSFT https://t.co/UIkVYxFYbt https\u2026
+p82
+aV2017-04-05 | RT @appleinsider: Microsoft's new iOS 10 iMessage App "Who's In" lets groups collaborate on plans $AAPL $MSFT https://t.co/UIkVYxFYbt https\u2026
+p83
+aV2017-04-05 | RT @appleinsider: Microsoft's new iOS 10 iMessage App "Who's In" lets groups collaborate on plans $AAPL $MSFT https://t.co/UIkVYxFYbt https\u2026
+p84
+aV2017-04-05 | Microsoft's new iOS 10 iMessage App "Who's In" lets groups collaborate on plans $AAPL $MSFT https://t.co/UIkVYxFYbt https://t.co/ldlNEQoMbN
+p85
+aV2017-04-05 | RT @theflynews: Data center infrastructure stocks continue multi-day slide $FFIV $FNSR $CIEN $AMZN $MSFT $GOOG $GOOGL $FB $AAPL\u2026 https://t.\u2026
+p86
+aV2017-04-05 | Data center infrastructure stocks continue multi-day slide $FFIV $FNSR $CIEN $AMZN $MSFT $GOOG $GOOGL $FB $AAPL\u2026 https://t.co/Vb0CcOq02d
+p87
+aV2017-04-05 | RT @cheddar: .@LinkedIn's @camplejohn explains how its new enterprise Sales Navigator makes pitches people will actually listen to. #Chedda\u2026
+p88
+aV2017-04-05 | RT @themotleyfool: For Microsoft, the next big thing will be Things. As in Internet of Things. We're talking a huge IoT push. $MSFT https:/\u2026
+p89
+aV2017-04-05 | RT @SFBusinessTimes: $MSFT vet scores $100M for Bay Area #startup competing with @amazon on its own cloud https://t.co/ZmLP6TsI5s https://t\u2026
+p90
+aV2017-04-05 | Positive upward signal for Microsoft! $MSFT #MSFT  #stockMarket #stocks #AI
+p91
+aV2017-04-05 | RT @danielgullo: For Microsoft, the next big thing will be Things. As in Internet of Things. We're talking a huge IoT push. $MSFT https://t\u2026
+p92
+aV2017-04-05 | RT @themotleyfool: For Microsoft, the next big thing will be Things. As in Internet of Things. We're talking a huge IoT push. $MSFT https:/\u2026
+p93
+aV2017-04-05 | RT @themotleyfool: For Microsoft, the next big thing will be Things. As in Internet of Things. We're talking a huge IoT push. $MSFT https:/\u2026
+p94
+aV2017-04-05 | RT @themotleyfool: For Microsoft, the next big thing will be Things. As in Internet of Things. We're talking a huge IoT push. $MSFT https:/\u2026
+p95
+aV2017-04-05 | For Microsoft, the next big thing will be Things. As in Internet of Things. We're talking a huge IoT push. $MSFT https://t.co/eezoBhjwWc
+p96
+aV2017-04-05 | RT @themotleyfool: For Microsoft, the next big thing will be Things. As in Internet of Things. We're talking a huge IoT push. $MSFT https:/\u2026
+p97
+aV2017-04-05 | For Microsoft, the next big thing will be Things. As in Internet of Things. We're talking a huge IoT push. $MSFT https://t.co/O1qvKYxpo7
+p98
+aV2017-04-05 | RT @Kris_tin27: Blow off top record highs ~ $AMZN $AAPL $TSLA $MSFT $QQQ~ Market recap. $UVXY $SVXY $VXX $VIX $PCLN  https://t.co/WTDxKbruDE
+p99
+aV2017-04-05 | Blow off top record highs ~ $AMZN $AAPL $TSLA $MSFT $QQQ~ Market recap. $UVXY $SVXY $VXX $VIX $PCLN  https://t.co/WTDxKbruDE
+p100
+aV2017-04-05 | One of the greatest stock to own: Creating Cloud, AI and other initiatives https://t.co/brFI3kAjtG $ADBE $GOOG $FB $MSFT
+p101
+aV2017-04-05 | Adobe Is Going All In on AI https://t.co/UGM3gBn4PA $ADBE $MSFT $NVDA https://t.co/zQPffYmdea
+p102
+aV2017-04-05 | RT @SFBusinessTimes: $MSFT vet scores $100M for Bay Area #startup competing with @amazon on its own cloud https://t.co/ZmLP6TsI5s https://t\u2026
+p103
+aV2017-04-05 | RT @theflynews: REPORT: Flipkart set to get up to $1.5B from Microsoft, others: https://t.co/E8NK0TP2HA $TCEHY $MSFT $AMZN $SFTBY https://t\u2026
+p104
+aV2017-04-05 | RT @SFBusinessTimes: $MSFT vet scores $100M for Bay Area #startup competing with @amazon on its own cloud https://t.co/ZmLP6TsI5s https://t\u2026
+p105
+aV2017-04-05 | $MSFT vet scores $100M for Bay Area #startup competing with @amazon on its own cloud https://t.co/ZmLP6TsI5s https://t.co/OfWDw60mzv
+p106
+aV2017-04-05 | REPORT: Flipkart set to get up to $1.5B from Microsoft, others: https://t.co/E8NK0TP2HA $TCEHY $MSFT $AMZN $SFTBY https://t.co/c0wwF5ZGhr
+p107
+aV2017-04-05 | #pepsi $PeP #BOYCOTTPePSI WOW! Pepsi's CeO Just Had to Go There!  $KO $AAPL $TWTR $AMZN $GOOGL $BRK $IeP $MSFT $CRM\u2026 https://t.co/H4JV2Zjrrh
+p108
+aV2017-04-05 | RT @craigbuj: Big Data + AI = The New Stack $AMZN $GOOGL $MSFT $IBM https://t.co/C0ma528ABQ https://t.co/oRgak82YM5
+p109
+aV2017-04-05 | Monitor your watchlist of assets for tweets - US Tech Giants https://t.co/J74uV6qAnD $AAPL $GOOG $MSFT $FB
+p110
+aV2017-04-05 | Big Data + AI = The New Stack $AMZN $GOOGL $MSFT $IBM https://t.co/C0ma528ABQ https://t.co/oRgak82YM5
+p111
+aV2017-04-05 | $AAPL $FB $GOOGL $NKE $MSFT $AMZN trade 4x-23x book value with that multiple $SNE #SONY should trade btw $80 to $450 #nikkei #themasters
+p112
+aV2017-04-05 | Why access a ticker when you can access a group of tickers - US Tech Giants https://t.co/J74uV6qAnD $AAPL $GOOGL $MSFT $FB
+p113
+aV2017-04-05 | @FilmProfessor9 @yusschr @NotaBubble flushing out fast now. Mass exodus into the close. $SPY $AMZN $MSFT
+p114
+aV2017-04-05 | Samsung Building A Platform Without An OS https://t.co/rEWhETUS9K $GOOG $MSFT $AAPL $BBRY $HPE $SSNLF $GOOGL
+p115
+asI2
+(lp116
+V2017-04-04 | Tech commentary:  As @intel spins out McAffe, I am forced to remember the best non-acquisition: Yahoo refusing $45B from $MSFT! \U0001f923
+p117
+aV2017-04-04 | The Compound Effect by Darren Hardy: https://t.co/czGhVZckbQ #investing #compunding $SPY $AAPL $MSFT $GE $KO $MSFT $AMZN
+p118
+aV2017-04-04 | Chowdhry: Oracle Is Toast, Layoffs In Sparc Business $AMZN $MSFT $ORCL https://t.co/8ze32O4gI4 via @benzinga
+p119
+aV2017-04-04 | Stocks &amp; Gold UP. Bonds DOWN! https://t.co/dEdSlTmyMY #business #trading #investing #finance #stockmarket #wallstreet $spy $msft $qqq $tlt
+p120
+aV2017-04-04 | $BIIB $BIVVV $CONE $AMZN $MSFT:  Cramer Remix: This biotech player could get pounded by some \u2026:  https://t.co/9VlMPOBBOa
+p121
+aV2017-04-04 | Monitor your watchlist of assets for tweets - US Tech Giants https://t.co/J74uV6qAnD $AAPL $GOOGL $MSFT $FB
+p122
+aV2017-04-04 | RT @SeekingAlpha: The Cheapest Way To Diversify Among Large-Cap Companies https://t.co/xo6XGK2Bmr $AAPL #APPLE $AMZN $FB $GE $GIS $JNJ $JPM\u2026
+p123
+aV2017-04-04 | RT @SeekingAlpha: The Cheapest Way To Diversify Among Large-Cap Companies https://t.co/xo6XGK2Bmr $AAPL #APPLE $AMZN $FB $GE $GIS $JNJ $JPM\u2026
+p124
+aV2017-04-04 | The Cheapest Way To Diversify Among Large-Cap Companies https://t.co/vJB60o8fhw $AAPL #APPLE $AMZN $FB $GE $GIS $JNJ $JPM $MSFT $PM $T
+p125
+aV2017-04-04 | RT @SeekingAlpha: The Cheapest Way To Diversify Among Large-Cap Companies https://t.co/xo6XGK2Bmr $AAPL #APPLE $AMZN $FB $GE $GIS $JNJ $JPM\u2026
+p126
+aV2017-04-04 | The Cheapest Way To Diversify Among Large-Cap Companies https://t.co/5Qo2N5bMY1 $AAPL #APPLE $AMZN $FB $GE $GIS $JNJ $JPM $MSFT $PM $T
+p127
+aV2017-04-04 | The Cheapest Way To Diversify Among Large-Cap Companies https://t.co/xo6XGK2Bmr $AAPL #APPLE $AMZN $FB $GE $GIS $JNJ $JPM $MSFT $PM $T
+p128
+aV2017-04-04 | RT @DanCarlson33: Will $AQMS announce something in the data center space? It's quite possible. $AMZN $MSFT https://t.co/CSyjcBF6t2
+p129
+aV2017-04-04 | $AMD $MSFT Surface Pro 5, Surface Book 2 Won't Be Released in Spring; Microsoft Can\u2019t Choose Between AMD and Intel https://t.co/tSJZc3RwMG
+p130
+aV2017-04-04 | Are you Bullish or Bearish on #Microsoft? Start #Trading $MSFT with #Bitcoin. 15:1 Leverage. #Cool #Gif #Stocks\u2026 https://t.co/W94jS9wfI6
+p131
+aV2017-04-04 | RT @SAlphaTrending: Vuzix: Actual Reality https://t.co/tEGhECh8En $GOOG #GOOGLE $GOOGL $HIMX $INTC $MLEAP $MSFT $VUZI
+p132
+aV2017-04-04 | Why Amazon Web Services Growth May Be Different Than What Is Expected https://t.co/BLmKK8I63j $MSFT $GOOG $GOOGL $AMZN
+p133
+aV2017-04-04 | RT @WallStJesus: \U0001f525TODAY'S ACTIVE FLOW &gt;&gt; $AAPL $NVDA $BAC $TSLA $AMD $INTC $UNP $AMZN $CHK $SDRL $BABA $MU $LB $FCX $BBRY $NFLX $MSFT $SNAP\u2026
+p134
+aV2017-04-04 | RT @WallStJesus: \U0001f525TODAY'S ACTIVE FLOW &gt;&gt; $AAPL $NVDA $BAC $TSLA $AMD $INTC $UNP $AMZN $CHK $SDRL $BABA $MU $LB $FCX $BBRY $NFLX $MSFT $SNAP\u2026
+p135
+aV2017-04-04 | RT @WallStJesus: \U0001f525TODAY'S ACTIVE FLOW &gt;&gt; $AAPL $NVDA $BAC $TSLA $AMD $INTC $UNP $AMZN $CHK $SDRL $BABA $MU $LB $FCX $BBRY $NFLX $MSFT $SNAP\u2026
+p136
+aV2017-04-04 | \U0001f525TODAY'S ACTIVE FLOW &gt;&gt; $AAPL $NVDA $BAC $TSLA $AMD $INTC $UNP $AMZN $CHK $SDRL $BABA $MU $LB $FCX $BBRY $NFLX\u2026 https://t.co/FFJJ5Q0u2j
+p137
+aV2017-04-04 | 1/2 Worst computer day in several years. My 4yo $AAPL airport conked out, then I couldn't open any $MSFT Word documents!
+p138
+aV2017-04-04 | Microsoft daily prediction: positive! #MSFT $MSFT  #stockMarket #DayTrade #trading
+p139
+aV2017-04-04 | Is Amazon Following Microsoft's Lead in Augmented Reality? @themotleyfool #stocks $WMT, $MSFT, $AMZN, $LOW https://t.co/BqyyHicAXl
+p140
+aV2017-04-04 | RT @raythemoneyman: Unpleasant surprises all the way around from here on out\u2026.Read \u201cThe Fake Recovery May Be Ending\u201d &gt; https://t.co/5E2IFX7\u2026
+p141
+aV2017-04-04 | Unpleasant surprises all the way around from here on out\u2026.Read \u201cThe Fake Recovery May Be Ending\u201d &gt; https://t.co/5E2IFX7xp5  $MSFT $AAPL
+p142
+aV2017-04-04 | RT @jiveDurkey: So much $MSFT news from the @NASDAQ today including a BIRTHDAY! Plus celeb doppelgänger chat w/ @KristenScholer &amp; @korihale\u2026
+p143
+aV2017-04-04 | RT @jiveDurkey: So much $MSFT news from the @NASDAQ today including a BIRTHDAY! Plus celeb doppelgänger chat w/ @KristenScholer &amp; @korihale\u2026
+p144
+aV2017-04-04 | Stay ahead with Nasdaq 100 news, views &amp; analysis $MSFT $AAPL $GOOG https://t.co/W1OB9ZtUgi https://t.co/4o9PvS4bIQ
+p145
+aV2017-04-04 | RT @jiveDurkey: So much $MSFT news from the @NASDAQ today including a BIRTHDAY! Plus celeb doppelgänger chat w/ @KristenScholer &amp; @korihale\u2026
+p146
+aV2017-04-04 | RT @jiveDurkey: So much $MSFT news from the @NASDAQ today including a BIRTHDAY! Plus celeb doppelgänger chat w/ @KristenScholer &amp; @korihale\u2026
+p147
+aV2017-04-04 | RT @jiveDurkey: So much $MSFT news from the @NASDAQ today including a BIRTHDAY! Plus celeb doppelgänger chat w/ @KristenScholer &amp; @korihale\u2026
+p148
+aV2017-04-04 | So much $MSFT news from the @NASDAQ today including a BIRTHDAY! Plus celeb doppelgänger chat w/ @KristenScholer &amp;\u2026 https://t.co/Gz0ae3qT3e
+p149
+aV2017-04-04 | $MSFT makes $SNAP like app called Sprinkles. Available for $AAPL iPhone users only. App uses AI bots to generate captions based on photos
+p150
+aV2017-04-04 | Who Will Be the First $1 Trillion Company? https://t.co/XsN0tHGRPP $AMZN $AAPL $GOOG $MSFT $BRK.A $FB $TSLA https://t.co/AlnieHpnl1
+p151
+aV2017-04-04 | BlackBerry Tablet Detailed: What We Know https://t.co/9eX1wLb1wr $BBRY $AAPL $MSFT https://t.co/vF6FIcAt3Y
+p152
+aV2017-04-04 | RT @SAlphaTrending: Vuzix: Actual Reality https://t.co/tEGhECh8En $GOOG #GOOGLE $GOOGL $HIMX $INTC $MLEAP $MSFT $VUZI
+p153
+aV2017-04-04 | $FB $GOOGL $MSFT:  New York\u2019s top court rejects Facebook search warrant challenge:  https://t.co/YBY5CrbqAf
+p154
+aV2017-04-04 | Top #moneyflow for #sp500 today $BAC $NVDA $GE $AAPL $CAT $AIG $PFE $GILD $ESRX $MSFT ... https://t.co/S59zN0R1wP
+p155
+aV2017-04-04 | Will AMD Rally Ahead Of Earnings? https://t.co/4NAFiposAN $MSFT $QCOM $AMD
+p156
+aV2017-04-04 | S&amp;P100 #Stocks Trend $GD $MSFT $CAT $FDX $PCLN $INTC $UPS $FOXA $MRK $CMCSA $HAL $DOW $DD $T $EMR $USB $ALL  @ https://t.co/cKkr8cKsju
+p157
+aV2017-04-04 | Dow #Stocks Trend $MSFT $CAT $INTC $MRK $DD $BA $CSCO $AAPL $IBM $MCD $JPM $DIS $UNH $V $HD $TRV $MMM $AXP $GS  @ https://t.co/TvzJfcJgPl
+p158
+aV2017-04-04 | I would rather buy stocks like $GOOGL $BABA $DIS $MSFT $BIDU here
+p159
+aV2017-04-04 | Happy Birthday Microsoft: 5 Fun Facts About The Software Giant's Founding https://t.co/7iUtYPONuk $MSFT https://t.co/s7mMFdlE4B
+p160
+aV2017-04-04 | SAlphaTrending: Vuzix: Actual Reality https://t.co/Jbq7AmBxpJ $GOOG #GOOGLE $GOOGL $HIMX $INTC $MLEAP $MSFT $VUZI
+p161
+aV2017-04-04 | Vuzix: Actual Reality https://t.co/tEGhECh8En $GOOG #GOOGLE $GOOGL $HIMX $INTC $MLEAP $MSFT $VUZI
+p162
+aV2017-04-04 | RT @OTCMarketsNews: $MSFT About Microsoft Corporation (NASDAQ:MSFT) https://t.co/7KwmztznPp
+p163
+aV2017-04-04 | RT @OTCMarketsNews: $ADBE $MSFT Microsoft Corporation (NASDAQ:MSFT) : Pay close attention to Microsoft\u2019s new alliance with Adobe https://t.\u2026
+p164
+aV2017-04-04 | RT @OTCMarketsNews: $ADBE $MSFT Adobe &amp; Microsoft to work on Artificial Intelligence https://t.co/UmNRY7pPK2
+p165
+aV2017-04-04 | Samsung Building A Platform Without An OS https://t.co/rg7Sy0N0ml $GOOG #GOOGLE $MSFT $AAPL $BBRY $HPE $SSNLF
+p166
+aV2017-04-04 | Vuzix: Actual Reality https://t.co/bYwTPq7KGW $GOOG $GOOGL $HIMX $INTC $MLEAP $MSFT $VUZI
+p167
+aV2017-04-04 | Samsung Building A Platform Without An OS https://t.co/EIowsy1wQM $GOOG #GOOGLE $MSFT $AAPL $BBRY $HPE $SSNLF
+p168
+aV2017-04-04 | Samsung Building A Platform Without An OS https://t.co/qbpttZ7BBh $GOOG #GOOGLE $MSFT $AAPL $BBRY $HPE $SSNLF
+p169
+aV2017-04-04 | $MSFT one of the most consistent stocks in my portfolio. Constant growth with nice dividends (2.8%)
+p170
+aV2017-04-04 | Microsoft Corporations\u2019s Dividend Payments Could Double Within 5 Years $MSFT https://t.co/7Z5Ut6P7dX #Dividend https://t.co/BpOFhAEHrz
+p171
+aV2017-04-04 | Vuzix: Actual Reality https://t.co/GE8DSc97qp $GOOG #GOOGLE $GOOGL $HIMX $INTC $MLEAP $MSFT $VUZI
+p172
+aV2017-04-04 | Vuzix: Actual Reality https://t.co/ecmHMfG0u3 $GOOG #GOOGLE $GOOGL $HIMX $INTC $MLEAP $MSFT $VUZI
+p173
+aV2017-04-04 | Microsoft stock (MSFT): Friedrich screener categorizing as overvalued, &amp; not meeting all required criteria\u2026 https://t.co/M4iIb2QTAV
+p174
+aV2017-04-04 | The #Microsoft $MSFT "open approach" to networking technologies https://t.co/ia3L9qVpa8
+p175
+aV2017-04-04 | MS Outlook for Mac has gone old school and now uses a trash can icon instead of the usual delete X icon.  $MSFT #UX https://t.co/x4fig7Oyrq
+p176
+asI3
+(lp177
+V2017-04-03 | RT @VistaPResearch: \u26a1\ufe0f \u201cLive From The Forbes #Under30Summit EMEA\u201d   https://t.co/eajSMirfgc Vista Partners #Investing #Dow30 https://t.co/1\u2026
+p178
+aV2017-04-03 | #BREAKING Android Passes Windows As Top Internet OS.  $GOOGL $MSFT $AAPL https://t.co/6ouK844U3H https://t.co/jSICPN9ZOg
+p179
+aV2017-04-03 | Android Passes Windows As Top Internet Operating System https://t.co/BZ27XbpoJF $GOOGL $MSFT
+p180
+aV2017-04-03 | RT @DomainMondo: Tech Review UPDATE: #Android now world\u2019s most popular OS for internet use, Goodbye @Windows https://t.co/IqkGmvpequ $MSFT\u2026
+p181
+aV2017-04-03 | RT @DomainMondo: Tech Review UPDATE: #Android now world\u2019s most popular OS for internet use, Goodbye @Windows https://t.co/IqkGmvpequ $MSFT\u2026
+p182
+aV2017-04-03 | RT @DomainMondo: Tech Review UPDATE: #Android now world\u2019s most popular OS for internet use, Goodbye @Windows https://t.co/IqkGmvpequ $MSFT\u2026
+p183
+aV2017-04-03 | RT @DomainMondo: Tech Review UPDATE: #Android now world\u2019s most popular OS for internet use, Goodbye @Windows https://t.co/IqkGmvpequ $MSFT\u2026
+p184
+aV2017-04-03 | RT @DomainMondo: Tech Review UPDATE: #Android now world\u2019s most popular OS for internet use, Goodbye @Windows https://t.co/IqkGmvpequ $MSFT\u2026
+p185
+aV2017-04-03 | RT @DomainMondo: Tech Review UPDATE: #Android now world\u2019s most popular OS for internet use, Goodbye @Windows https://t.co/IqkGmvpequ $MSFT\u2026
+p186
+aV2017-04-03 | RT @DomainMondo: Tech Review UPDATE: #Android now world\u2019s most popular OS for internet use, Goodbye @Windows https://t.co/IqkGmvpequ $MSFT\u2026
+p187
+aV2017-04-03 | RT @DomainMondo: Tech Review UPDATE: #Android now world\u2019s most popular OS for internet use, Goodbye @Windows https://t.co/IqkGmvpequ $MSFT\u2026
+p188
+aV2017-04-03 | RT @DomainMondo: Tech Review UPDATE: #Android now world\u2019s most popular OS for internet use, Goodbye @Windows https://t.co/IqkGmvpequ $MSFT\u2026
+p189
+aV2017-04-03 | RT @DomainMondo: Tech Review UPDATE: #Android now world\u2019s most popular OS for internet use, Goodbye @Windows https://t.co/IqkGmvpequ $MSFT\u2026
+p190
+aV2017-04-03 | RT @SeekingAlpha: Why Amazon Web Services Growth May Be Different Than What Is Expected https://t.co/3Dk00r2mJp $MSFT #MICROSOFT #WINDOWS $\u2026
+p191
+aV2017-04-03 | RT @SeekingAlpha: Why Amazon Web Services Growth May Be Different Than What Is Expected https://t.co/3Dk00r2mJp $MSFT #MICROSOFT #WINDOWS $\u2026
+p192
+aV2017-04-03 | RT @SeekingAlpha: Why Amazon Web Services Growth May Be Different Than What Is Expected https://t.co/3Dk00r2mJp $MSFT #MICROSOFT #WINDOWS $\u2026
+p193
+aV2017-04-03 | RT @DomainMondo: Tech Review UPDATE: #Android now world\u2019s most popular OS for internet use, Goodbye @Windows https://t.co/IqkGmvpequ $MSFT\u2026
+p194
+aV2017-04-03 | RT @DomainMondo: Tech Review UPDATE: #Android now world\u2019s most popular OS for internet use, Goodbye @Windows https://t.co/IqkGmvpequ $MSFT\u2026
+p195
+aV2017-04-03 | RT @DomainMondo: Tech Review UPDATE: #Android now world\u2019s most popular OS for internet use, Goodbye @Windows https://t.co/IqkGmvpequ $MSFT\u2026
+p196
+aV2017-04-03 | @RickyCarmichael @RCHracing Game Changer\U0001f918 $MSFT
+p197
+aV2017-04-03 | RT @DomainMondo: Tech Review UPDATE: #Android now world\u2019s most popular OS for internet use, Goodbye @Windows https://t.co/IqkGmvpequ $MSFT\u2026
+p198
+aV2017-04-03 | RT @WallStJesus: \U0001f525TODAY'S ACTIVE FLOW: $BAC $AAPL $TSLA $JPM $CSCO $AMZN $MU $NVDA $MON $AMD $MSFT $KMX $T $DB $X $GOOGL $EBAY $VRX $TWTR $\u2026
+p199
+aV2017-04-03 | RT @WallStJesus: \U0001f525TODAY'S ACTIVE FLOW: $BAC $AAPL $TSLA $JPM $CSCO $AMZN $MU $NVDA $MON $AMD $MSFT $KMX $T $DB $X $GOOGL $EBAY $VRX $TWTR $\u2026
+p200
+aV2017-04-03 | RT @DomainMondo: Tech Review UPDATE: #Android now world\u2019s most popular OS for internet use, Goodbye @Windows https://t.co/IqkGmvpequ $MSFT\u2026
+p201
+aV2017-04-03 | RT @DomainMondo: Tech Review UPDATE: #Android now world\u2019s most popular OS for internet use, Goodbye @Windows https://t.co/IqkGmvpequ $MSFT\u2026
+p202
+aV2017-04-03 | Tech Review UPDATE: #Android now world\u2019s most popular OS for internet use, Goodbye @Windows https://t.co/IqkGmvpequ\u2026 https://t.co/CYCbD2CGny
+p203
+aV2017-04-03 | Understanding Microsoft's Strategy to Succeed in the Cloud https://t.co/1nMbZQ3CKD $MSFT $AMZN $GOOG $IBM
+p204
+aV2017-04-03 | RT @ChartMill: Feeling the need for a nice setup today? Check out $MSFT at https://t.co/gwnvP8lb0b #GIF #entrepreneur
+p205
+aV2017-04-03 | RT @Blackrosesqrrl: Is Amazon Following Microsoft's Lead in Augmented Reality? @themotleyfool #stocks $WMT, $MSFT, $AMZN, $LOW https://t.co\u2026
+p206
+aV2017-04-03 | Feeling the need for a nice setup today? Check out $MSFT at https://t.co/gwnvP8lb0b #GIF #entrepreneur
+p207
+aV2017-04-03 | Is Amazon Following Microsoft's Lead in Augmented Reality? @themotleyfool #stocks $WMT, $MSFT, $AMZN, $LOW https://t.co/b71nYZ4Shr
+p208
+aV2017-04-03 | RT @SeekingAlpha: Why Amazon Web Services Growth May Be Different Than What Is Expected https://t.co/3Dk00r2mJp $MSFT #MICROSOFT #WINDOWS $\u2026
+p209
+aV2017-04-03 | \U0001f525TODAY'S ACTIVE FLOW: $BAC $AAPL $TSLA $JPM $CSCO $AMZN $MU $NVDA $MON $AMD $MSFT $KMX $T $DB $X $GOOGL $EBAY $VRX\u2026 https://t.co/yBeT8RxvDJ
+p210
+aV2017-04-03 | Report suggests $SNE #SONY is developing a 150-megapixel backlit sensor https://t.co/4rcZJqBEgk  #nikkei $AAPL\u2026 https://t.co/UxleKmV6jB
+p211
+aV2017-04-03 | CSC + HPE + Execution = Winner $DXC #NYSE #OpeningBell #Day1 #HelloDXC #IT #ITServices #IoT $IBM $MSFT $ORCL $AMZN https://t.co/td1HpipLro
+p212
+aV2017-04-03 | MUST READ: Up today on news. Short squeeze coming: https://t.co/0TuhB37PYv $MSFT $ABX $MON $GDXJ $IAG $MNST $CDE $REM $DPZ $SPPI
+p213
+aV2017-04-03 | Why Amazon Web Services Growth May Be Different Than What Is Expected https://t.co/0L96kKqap7 $MSFT $GOOG $GOOGL $AMZN
+p214
+aV2017-04-03 | If you had bought $1000 $MSFT when it started you would be a multimillionaire right now. This is not a BUY rating,\u2026 https://t.co/bZ0eyckuDX
+p215
+aV2017-04-03 | Why Amazon Web Services Growth May Be Different Than What Is Expected https://t.co/WTCCi6mstj $MSFT #MICROSOFT #WINDOWS $GOOG $GOOGL $AMZN
+p216
+aV2017-04-03 | Why Amazon Web Services Growth May Be Different Than What Is Expected $MSFT #MICROSOFT #WINDOWS\u2026\u2026 https://t.co/zeZOKnrmls
+p217
+aV2017-04-03 | Why Amazon Web Services Growth May Be Different Than What Is Expected https://t.co/OoKlDh8Ntq $MSFT #MICROSOFT #WINDOWS $GOOG $GOOGL $AMZN
+p218
+aV2017-04-03 | Why Amazon Web Services Growth May Be Different Than What Is Expected https://t.co/3Dk00r2mJp $MSFT #MICROSOFT #WINDOWS $GOOG $GOOGL $AMZN
+p219
+aV2017-04-03 | $MSFT GameStop: Is This Game Still Worth Playing? https://t.co/PSGoBiujPc
+p220
+aV2017-04-03 | $MSFT: 4 open, suited signals indicate continued price increase for about 5 more days. https://t.co/iyOWdh9XWl
+p221
+aV2017-04-03 | INTC plans to make a HUGE move forward over the next couple of years https://t.co/KggcAj1Ha5 $INTC $AMD $MSFT https://t.co/XWPP1UCFSW
+p222
+aV2017-04-03 | $GME $MSFT:  GameStop: Is This Game Still Worth Playing?:  https://t.co/XhHW24DSxM
+p223
+aV2017-04-03 | RT @returnalpha: Microsoft daily prediction: positive! #MSFT $MSFT  #AI #stockMarket #trading
+p224
+aV2017-04-03 | Microsoft daily prediction: positive! #MSFT $MSFT  #AI #stockMarket #trading
+p225
+aV2017-04-03 | Microsoft to Shut CodePlex to Focus on Cloud Opportunity https://t.co/pP5Sxa5e3Q $MSFT $AMZN
+p226
+aV2017-04-03 | Battle for the best Chinese stock is warming up $BIDU and $TCEHY https://t.co/Ob6TmpYPWO $AAPL $MSFT $AMZN
+p227
+aV2017-04-03 | Can\u2019t Make \u201cAlpha\u201d In Mega-Caps? https://t.co/m4ZBCrXYbP $JPM $CAT $MSFT $AAPL
+p228
+aV2017-04-03 | No Reason to Abandon Big Tech https://t.co/LxzTksqO8H via @barronsonline $FB $AMZN $MSFT $NFLX $GOOG $AAPL $TSLA $F
+p229
+aV2017-04-03 | $MSFT Down 1.3% Today. Microsoft Stock Analysis: https://t.co/TFUMPzKFN5 via @KenFaulkenberry #dividend #technology\u2026 https://t.co/eQGUzhdmOk
+p230
+aV2017-04-03 | $AAPL $FB $MSFT:  These 5 self-made billionaires all share the same surprising trait:  https://t.co/vlYdvLZTjp
+p231
+aV2017-04-03 | $MSFT hits all time high.
+p232
+aV2017-04-03 | 2017 Oracle Rally: The Start Of A New Uptrend, Or A Weak Performer In A Hot Sector? https://t.co/yBJeReLtCp $AMZN $CRM $IBM $MSFT $SAP
+p233
+aV2017-04-03 | 2017 Oracle Rally: The Start Of A New Uptrend, Or A Weak Performer In A Hot Sector? https://t.co/GirVSOZiL4 $AMZN $CRM $IBM $MSFT $SAP
+p234
+aV2017-04-03 | 2017 Oracle Rally: The Start Of A New Uptrend, Or A Weak Performer In A Hot Sector? https://t.co/dDw1UDtzV5 $AMZN $CRM $IBM $MSFT $SAP
+p235
+aV2017-04-03 | $IBM BIGGEST LOSER: IN HYBRID CLOUD, $IBM $MSFT $GOOGL FOUGHT LIKE DOGS JUST TO TAKE LOUSY 5% SHARE FROM $AMZN. LOL! https://t.co/ar1Tw4twPR
+p236
+aV2017-04-03 | $MSFT 10 essential first steps after installing Windows https://t.co/0JCnPmijL8
+p237
+aV2017-04-03 | \u26a1\ufe0f \u201cLive From The Forbes #Under30Summit EMEA\u201d   https://t.co/eajSMirfgc Vista Partners #Investing #Dow30 https://t.co/1x6MLaGp0d $DIA $MSFT
+p238
+aV2017-04-03 | Fully expect $QQQ to rally during earnings season, so buying these put spreads allows us to stay long $AAPL $AMZN $MSFT $GOOG $FB and $QQQ.
+p239
+aV2017-04-03 | We've been long core positions in $AAPL $AMZN $MSFT $GOOG $FB for a number of years. Adding on pullbacks on and lightening up on rallies.
+p240
+aV2017-04-03 | RT @BrianDeagon: Android Passes Windows As Top Internet Operating System https://t.co/Ks9Zzz8Vgd $GOOGL $MSFT $AAPL #Android
+p241
+aV2017-04-03 | Android Passes Windows As Top Internet Operating System https://t.co/Ks9Zzz8Vgd $GOOGL $MSFT $AAPL #Android
+p242
+aV2017-04-03 | $MSFT $GOOGL $AAPL:  Android Passes Windows As Top Internet Operating System:  https://t.co/HEk4GVtn6r
+p243
+aV2017-04-03 | Twitter Is Looking to Diversify Its Revenue With a Paid Subscription @themotleyfool #stocks $MSFT, $TWTR https://t.co/PSvtoK96oK
+p244
+aV2017-04-03 | Commented on Will AMD Rally Ahead Of Earnings? https://t.co/KVtz6u1Os5 $MSFT $QCOM $AMD
+p245
+aV2017-04-03 | Understanding Microsoft's Internet of Things Story  https://t.co/2yHy0cWa6P via @themotleyfool #MicrosoftIoT $MSFT
+p246
+aV2017-04-03 | $MSFT #Microsoft #SurfacePro5 to Eliminate Predecessor's Greatest Downfall with This Upgrade - https://t.co/4gCSWHqOZb
+p247
+aV2017-04-03 | $Googl is the winner with #youtube and #Google and #googleplus  But, $GOOG also conducted the survey   Lol  $AMZN\u2026 https://t.co/L6ghAwdom8
+p248
+aV2017-04-03 | Trade of the Day: Microsoft Corporation (NASDAQ:MSFT) https://t.co/8DUeGgXwkX  $MSFT #tech #price #target #bullish #trade
+p249
+aV2017-04-03 | Trade of the Day: Microsoft Corporation (NASDAQ:MSFT) https://t.co/8XZObavMKP  $MSFT #tech #price #target #bullish\u2026 https://t.co/Kre9APQGO1
+p250
+aV2017-04-03 | Trade of the Day: Microsoft Corporation (NASDAQ:MSFT) https://t.co/zUyJFCsgT5  $MSFT #tech #price #target #bullish\u2026 https://t.co/R8EfJQf2Uj
+p251
+aV2017-04-03 | Are you Bullish or Bearish on #Microsoft? Start #Trading $MSFT with #Bitcoin. 15:1 Leverage. #Cool #Gif #Stocks\u2026 https://t.co/5M6P0j8FTP
+p252
+aV2017-04-03 | $MSFT $FB:  Facebook, Microsoft Helping to Finance Green Power Microgrids:  https://t.co/ndCfpjTHzi
+p253
+asI4
+(lp254
+V2017-04-02 | RT @jedimarkus77: $AAPL $MSFT $AMZN $FB $GOOG $GOOGL $CMCSA $INTC $CSCO $AMGN https://t.co/GHdSdUKYpL
+p255
+aV2017-04-02 | $AAPL $MSFT $AMZN $FB $GOOG $GOOGL $CMCSA $INTC $CSCO $AMGN https://t.co/GHdSdUKYpL
+p256
+aV2017-04-02 | Monitor your watchlist of assets for tweets - US Tech Giants https://t.co/J74uV6qAnD $AAPL $GOOG $MSFT $FB
+p257
+aV2017-04-02 | Why access a ticker when you can access a group of tickers - US Tech Giants https://t.co/J74uV6qAnD $AAPL $GOOG $MSFT $FB
+p258
+aV2017-04-02 | RT @Ro_Patel: Nearly 40% of all time spent watching TV content digitally in France was done via mobile last y - $AAPL $GOOG $MSFT https://t\u2026
+p259
+asI5
+(lp260
+sI6
+(lp261
+sI7
+(lp262
+sI8
+(lp263
+sI9
+(lp264
+sI10
+(lp265
+sI11
+(lp266
+sI12
+(lp267
+sI13
+(lp268
+sI14
+(lp269
+sI15
+(lp270
+sI16
+(lp271
+sI17
+(lp272
+sI18
+(lp273
+s.
